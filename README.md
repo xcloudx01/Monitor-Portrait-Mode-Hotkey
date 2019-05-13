@@ -6,8 +6,9 @@ Simply lets you swap your monitor between portrait and regular mode with the pre
 
 ## Initial Setup
 1. Download and install AutohotKey (https://www.autohotkey.com/download/)
-2. Run the .ahk file
-3. Press CTRL+ALT+WIN+RightArrowKey to flip the monitor to portrait mode. Press again to return to normal.
+2. Make sure you downloaded Display.exe along with the .ahk file.
+3. Run the .ahk file
+4. Press CTRL+ALT+WIN+RightArrowKey to flip the monitor to portrait mode. Press again to return to normal.
 
 Note: You can also use the tray icon by right-clicking on it and clicking "Rotate the display"
 
